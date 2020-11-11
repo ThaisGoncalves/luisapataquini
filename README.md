@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Angular-developer"/>
 <img src="https://img.shields.io/badge/fullstack-dev-orange"/>
 <img src="https://img.shields.io/badge/javascript-dev-yellow"/>
-<img src="https://img.shields.io/badge/https://img.shields.io/badge/docker-learning-blue"/>
+<img src="https://img.shields.io/badge/docker-learning-blue"/>
 
 
 
