@@ -6,3 +6,7 @@
 <img src="https://img.shields.io/badge/Angular-developer"/>
 <img src="https://img.shields.io/badge/Javascript"/>
 <img src="https://img.shields.io/badge/mysql"/>
+
+
+![Luisa's github stats](https://github-readme-stats.vercel.app/api?username=luisapataquini&show_icons=true&theme=tokyonight)
+
