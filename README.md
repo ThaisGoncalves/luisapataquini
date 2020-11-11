@@ -7,5 +7,5 @@
 <img src="https://img.shields.io/badge/fullstack"/>
 
 
-![Luisa's github stats](https://github-readme-stats.vercel.app/api?username=luisapataquini&show_icons=true&theme=tokyonight)
+<a href=""><img align="left" width="250" height="250" src="https://github.com/luisapataquini/luisapataquini/blob/main/octocat.png"></a> ![Luisa's github stats](https://github-readme-stats.vercel.app/api?username=luisapataquini&show_icons=true&theme=tokyonight)
 
